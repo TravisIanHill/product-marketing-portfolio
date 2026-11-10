@@ -34,6 +34,6 @@ Senior Product Marketing / Director PMM · GTM Strategy and Portfolio Marketing 
 
 Every case study here is a sanitized reconstruction. Employer, customer and partner details are generalized, internal figures are shown as percentages or ranges, and shared outcomes are described as shared. I keep private evidence and attribution records for every claim and can walk through any of them in conversation.
 
-**Certifications:** Pragmatic Institute Certified Product Marketer · HubSpot SEO and Content Marketing
+**Certifications:** Pragmatic Institute Certified Product Manager (PMC-III) and Certified Product Marketer (Foundations, Market, Launch) · HubSpot SEO and Content Marketing
 
 [LinkedIn](https://www.linkedin.com/in/travisihill) · [GitHub profile](https://github.com/TravisIanHill)
