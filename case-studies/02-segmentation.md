@@ -8,7 +8,7 @@
 - Activation in the field through targeted lists, CRM tasks and seller enablement, working alongside Analytics, Segmentation Strategy, Sales, Campaign and Creative partners
 - A readout that combined quantitative reporting with seller feedback, measuring both reach and conversation quality
 
-**Impact.** The live pilot produced a **52% successful connection rate** among customers called and **8.1% weighted-average list penetration**, with early pipeline and closed business within the pilot window. Sellers reported reaching more decision-makers and having more valuable conversations.
+**Impact.** The live pilot produced a **52% successful connection rate** among customers called and **8.1% weighted-average list penetration**, with an early readout of 25+ opportunities and $7,500+ in potential MRC. Sellers reported reaching more decision-makers and having more valuable conversations.
 
 **Capabilities:** Segmentation · Portfolio messaging · GTM experimentation · Sales enablement · Data-informed marketing
 
